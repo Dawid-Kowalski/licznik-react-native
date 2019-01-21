@@ -1,0 +1,4 @@
+#Mon Jan 21 14:19:13 CET 2019
+base.0=C\:\\Users\\DawidK\\Desktop\\projektyapp\\bootcamp\\react-native-liczniki\\Liczniki\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
